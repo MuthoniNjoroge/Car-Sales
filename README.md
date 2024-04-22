@@ -23,4 +23,8 @@ I came across the dataset online in Kaggle and I have been trying to practice my
     - YOY Growth in Cars sold 
     - Difference between YTD cars sold and PYTD cars sold
 
+## Data Sourcing and transformation
+Data was efficiently cleaned and transformed with the power Query Editor. The screenshot below shows some of the steps taken during this process.
+
+
 
