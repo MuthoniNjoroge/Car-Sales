@@ -6,7 +6,7 @@ I came across the dataset online in Kaggle and I have been trying to practice my
 
 
 1. Sales Overview, Calculate 
-    -YTD Total sales.
-    -MTD Total sales. 
-    -YOY Growth in Total Sales.
-    -Difference between YTD sales and PYTD sales. 
+    - YTD Total sales.
+    - MTD Total sales. 
+    - YOY Growth in Total Sales.
+    - Difference between YTD sales and PYTD sales. 
