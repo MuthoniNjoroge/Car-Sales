@@ -39,7 +39,7 @@ Then I went ahead to connect the original table and the calendar table with the 
 
 ##  Visualization
 
-DAX measures,& Buttons are used in the dashboard
+In this visualization DAX measures where highly utilized, Buttons were also used to make the dashboard navigation user friendly.
 ![](folio_pic.png)
 ![](folio_details.png)
 
