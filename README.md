@@ -24,9 +24,14 @@ I came across the dataset online in Kaggle and I have been trying to practice my
     - Difference between YTD cars sold and PYTD cars sold
 
 ## Data Sourcing and transformation
-Data was efficiently cleaned and transformed with the power Query Editor. The screenshot below shows some of the steps taken during this process.
+Data was efficiently cleaned and transformed with the power Query Editor. The screenshot below shows some of the steps taken during this process of.
 
 ![](Steps_applied.png)
+
+## Data Modeling 
+Since it was a time-based analysis the first step was to create a calendar table to better establish a relationship with the other table.
+Then I went ahead to connect the original table and the calendar table with the common column being the date and formed a one-to-many relationship.
+
 
 
 
