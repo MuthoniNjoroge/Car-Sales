@@ -31,7 +31,18 @@ Data was efficiently cleaned and transformed with the power Query Editor. The sc
 ## Data Modeling 
 Since it was a time-based analysis the first step was to create a calendar table to better establish a relationship with the other table.
 Then I went ahead to connect the original table and the calendar table with the common column being the date and formed a one-to-many relationship.
+
 ![](Model_data_cars.png)
+
+## Analysis and Visualization
+According to the analysis, the best-selling companies are Chevrolet and Ford,
+The most bought color is pale white for all the cars, especially the SUVs 
+Scottsdale, Austin, And Janesville are the top 3 best-selling regions.
+The cars with automatic transmissions sell more than the ones with manual transmissions which makes sense since people today prefer automatic over manual ones.
+![](folio_pic.png)
+![](folio_details.png)
+
+
 
 
 
