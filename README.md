@@ -43,7 +43,7 @@ In this visualization DAX measures where highly utilized, Buttons were also used
 ![](folio_pic.png)
 ![](folio_details.png)
 
-## Analysis
+## Analysis and Conclusion
 According to the analysis, the best-selling companies are Chevrolet and Ford,
 The most bought color is pale white for all the cars, especially the SUVs 
 Scottsdale, Austin, And Janesville are the top 3 best-selling regions.
