@@ -34,13 +34,19 @@ Then I went ahead to connect the original table and the calendar table with the 
 
 ![](Model_data_cars.png)
 
-## Analysis and Visualization
+##  Visualization
+
+DAX measures,& Buttons are used in the dashboard
+![](folio_pic.png)
+![](folio_details.png)
+
+## Analysis
 According to the analysis, the best-selling companies are Chevrolet and Ford,
 The most bought color is pale white for all the cars, especially the SUVs 
 Scottsdale, Austin, And Janesville are the top 3 best-selling regions.
 The cars with automatic transmissions sell more than the ones with manual transmissions which makes sense since people today prefer automatic over manual ones.
-![](folio_pic.png)
-![](folio_details.png)
+
+
 
 
 
