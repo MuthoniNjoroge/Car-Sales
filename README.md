@@ -16,4 +16,11 @@ I came across the dataset online in Kaggle and I have been trying to practice my
     - MTD Average Price
     - YOY growth in Average
     - Difference between YTD Average price and PTYD Average Price.
+  
+3. Cars Sold Metrics 
+    - YTD cars sold
+    - MTD cars sold 
+    - YOY Growth in Cars sold 
+    - Difference between YTD cars sold and PYTD cars sold
+
 
