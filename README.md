@@ -12,8 +12,8 @@ I came across the dataset online in Kaggle and I have been trying to practice my
     - Difference between YTD sales and PYTD sales.
 
 2.  Average Price Analysis
-   - YTD Average price 
-   - MTD Average Price
-   - YOY growth in Average
-   - Difference between YTD Average price and PTYD Average Price.
+    - YTD Average price 
+    - MTD Average Price
+    - YOY growth in Average
+    - Difference between YTD Average price and PTYD Average Price.
 
