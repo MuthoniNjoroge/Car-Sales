@@ -50,6 +50,17 @@ The most bought color is pale white for all the cars, especially the SUVs
 Scottsdale, Austin, And Janesville are the top 3 best-selling regions.
 The cars with automatic transmissions sell more than the ones with manual transmissions which makes sense since people today prefer automatic over manual ones.
 
+## Recommendation
+1. Highlight the Stars: Chevrolet and Ford are leading the pack as the best-selling brands. center advertising campaigns around these models, showcasing their standout features and what makes them top choices among customers.
+
+2. Spotlight Popular Colors: Pale white is the go-to color for most buyers, especially for SUVs.  make sure the ads prominently feature vehicles in this popular shade, drawing in customers who have a preference for it.
+
+3. Target Hot Regions: Scottsdale, Austin, and Janesville are our top-performing regions. Tailor the marketing strategies to resonate with local tastes and preferences, maximizing our impact in these key areas.
+
+4. Promote Automatic Convenience: Automatic transmissions are in higher demand compared to manual ones. The campaigns should emphasize the convenience and ease of automatic cars, educating buyers on their benefits and making them the preferred choice.
+
+5. Host Family Fun Days: Families with kids love SUVs for their comfort and space. Let’s organize family-oriented events where they can experience these vehicles firsthand. Interactive and engaging experiences will highlight the features and advantages, making it an enjoyable and informative outing for all.
+
 
 
 
