@@ -2,7 +2,8 @@
 
 ![](yard.jpg)
 ## Introduction 
-The objective of this project wa to find the most bought cars and the colors that customers prefer. 
+The objective of this project was to find the most bought cars and the colors that customers prefer. 
+Dax Were highly utilized.
 ## Problem Statement
 
 
