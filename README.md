@@ -2,8 +2,7 @@
 
 ![](yard.jpg)
 ## Introduction 
-The objective of this project was to find the most bought cars and the colors that customers prefer. 
-Dax Were highly utilized.
+In this project, I conducted an in-depth analysis of the car sales data to identify key trends and insights. The findings highlight the best-selling brands, popular colors, top-performing regions, and customer preferences for automatic transmissions. Based on these insights, I was able to craft a set of targeted recommendations aimed at enhancing the marketing efforts and driving higher engagement and sales. By focusing on these data-driven strategies, the dealer can align their offerings with customer preferences and capture a larger market share.
 ## Problem Statement
 
 
