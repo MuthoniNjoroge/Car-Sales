@@ -1,4 +1,4 @@
-# Car-Sales([live project](https://app.powerbi.com/links/UxoaFkyT3M?ctid=ae6b8ae8-c4ed-48a6-90ac-578b536f4451&pbi_source=linkShare))
+# Car-Sales
 
 ![](yard.jpg)
 ## Introduction 
